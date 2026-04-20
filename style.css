@@ -149,6 +149,10 @@ img {vertical-align: middle;}
   user-select: none;
 }
 
+.slides {
+ Height: 500px;
+ width: 50px;
+}
 /* Position the "next button" to the right */
 .next {
   right: 0;
