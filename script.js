@@ -83,6 +83,6 @@ function showSlides(n) {
       dots[slideIndex-1].className += " active";
     }</script>
 
-    function myFunction(x) {
+    function Thumbsupdown(x) {
   x.classList.toggle("fa-thumbs-down");
 }
